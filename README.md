@@ -1,10 +1,11 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<i class="fa fa-car" style="font-size:48px;"></i>
 ## Hi there 👋
 ### I’m Cahyadi and I'm Backend Developer from Dompu (Nggahi Rawi Pahu), Nusa Tenggara Barat
 
 ## Tools and Programming Language
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<i class="fa fa-car" style="font-size:48px;"></i>
 <!--
 **cahyadi16/cahyadi16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

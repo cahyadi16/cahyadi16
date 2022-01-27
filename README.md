@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! there 👋
 ### I’m Cahyadi and I'm Backend Developer from Dompu (Nggahi Rawi Pahu), Nusa Tenggara Barat
 
 ## Tools and Programming Language

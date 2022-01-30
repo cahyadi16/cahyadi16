@@ -17,4 +17,6 @@
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahyadi16&langs_count=5&hide_border=true&theme=algolia" />
 
-<a href="http://facebook.com" target="_blank">Cahyadi</a>
+<a href="http://facebook.com" target="_blank">[Fb. Cahyadi]</a>
+
+<a href="http://facebook.com" target="_blank">[WA. Cahyadi]</a>

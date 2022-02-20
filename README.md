@@ -9,7 +9,7 @@
 <img align="left" alt="Bootsrap" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
 <img align="left" alt="PHP" width="29px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png" />
 <img align="left" alt="Laravel" width="29px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">
-<img align="left" alt="Laravel Breeze" width="59px" src="https://raw.githubusercontent.com/laravel/breeze/1.x/art/logo.svg">
+<img align="left" alt="Laravel Breeze" width="99px" src="https://raw.githubusercontent.com/laravel/breeze/1.x/art/logo.svg">
 <img align="left" alt="Codeigniter" width="29px" src="https://avatars.githubusercontent.com/u/44521256?s=200&v=4" />
 <img align="left" alt="SQL" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
